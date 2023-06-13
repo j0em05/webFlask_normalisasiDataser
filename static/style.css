@@ -1,0 +1,61 @@
+/* style.css */
+
+body {
+    background-color: #1db892;
+    font-family: Arial, sans-serif;
+}
+
+.form {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form label {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+
+.form input[type="file"] {
+    display: block;
+    margin: 10px auto;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.form button[type="submit"] {
+    display: block;
+    margin: 10px auto;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #1503db;
+    color: #fff;
+    border: 1 px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.tampil {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    box-shadow: 0 0 5px rgba(246, 8, 8, 0.1);
+}
+
+.tampil h1 {
+    color: #333;
+}
+.center{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
