@@ -1,1 +1,6 @@
-# webFlask_normalisasiDataser
+# webFlask_normalisasiDataset
+pip install flask, pandas,sklearn, openpyxl
+# jalankan flask
+py file.py / python file.py
+# salin route ke browser
+biasanya  http://127.0.0.1:5000
