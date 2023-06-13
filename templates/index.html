@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DATA MINING</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="form">
+        <form method="post" enctype="multipart/form-data">
+            <h1 for="file">Upload dataset</h1>
+            <h2>Kolom berjumlah 4</h2>
+            <h2>Ubah nama kolom (kolom 1, kolom 2, kolom 3) dan kolom tujuan (status)</h2>
+            <input type="file" name="file">
+            <button type="submit" value="Upload">Upload</button>
+        </form>
+    </div>
+    <div class="tampil">
+        {% if pesan_error %}
+            <h2>{{ pesan_error }}</h2>
+        {% else %}
+            <h1>Dataset Sebelum Dinormalisasi</h1>
+            <div class="center">
+                {% if dataset %}
+                {{ dataset|safe }}
+            {% endif %}
+            </div>
+            <h1>Dataset Setelah Dinormalisasi</h1>
+            <div class="center">
+                  {% if dataset_dinormalisasi %}
+                {{ dataset_dinormalisasi|safe }}
+            {% endif %}
+        {% endif %}
+            </div>
+          
+    </div>
+</body>
+</html>
