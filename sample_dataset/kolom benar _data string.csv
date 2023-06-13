@@ -1,0 +1,139 @@
+kolom 1,kolom 2,kolom 3,status
+1,S-1,S-Class,Blast 
+2,S-2,S-Class,Tatsumaki 
+3,S-3,S-Class,Silver Fang
+4,S-4,S-Class,Atomic Samurai
+5,S-5,S-Class,Child Emperor
+6,S-6,S-Class,Metal Knight
+7,S-7,S-Class,King
+8,S-8,S-Class,Zombieman
+9,S-9,S-Class,Drive Knight
+10,S-10,S-Class,Pig God
+11,S-11,S-Class,Supperalloy Darkshine
+12,S-12,S-Class,Watchdog Man
+13,S-13,S-Class,Flashy flash
+14,S-14,S-Class,Genos
+15,S-15,S-Class,Metal Bat
+16,S-16,S-Class,Tanktop Master
+17,S-17,S-Class,Puri-Puri Prisoner
+18,A-1,A-Class,Amai Mask
+19,A-2,A-Class,Iaian
+20,A-3,A-Class,Okamaitachi
+21,A-4,A-Class,Bushidrill
+22,A-5,A-Class,Heavy Tank Loincloth
+23,A-6,A-Class,Blue fire
+24,A-7,A-Class,Magic Trick Man
+25,A-8,A-Class,Death Gatling
+26,A-9,A-Class,Tanktop Vegetarian 
+27,A-10,A-Class,Stinger
+28,A-11,A-Class,Twin Tail
+29,A-13,A-Class,Great Philosopher
+30,A-16,A-Class,Butterfly DX
+31,A-17,A-Class,Lightning Genji
+32,A-19,A-Class,Lightning Max
+33,A-22,A-Class,One Shotter
+34,A-24,A-Class,Green
+35,A-25,A-Class,Crescent Eyebroll
+36,A-26,A-Class,Golden Ball
+37,A-27,A-Class,Smile Man
+38,A-28,A-Class,Spring Mustachio
+39,A-29,A-Class,Narcissistoic
+40,A-30,A-Class,Peach Terry 
+41,A-31,A-Class,Forte
+42,A-32,A-Class,Shadow Ring
+43,A-33,A-Class,Doll Master
+44,A-34,A-Class,Feather
+45,A-35,A-Class,Air
+46,A-36,A-Class,Chain'n'toad
+47,A-37,A-Class,Sneck
+48,A-39,A-Class,Saitama
+49,???,A-Class,Heavy Kong
+50,B-1,B-Class,Blizzard of Hell
+51,B-2,B-Class,Eyelashes
+52,B-3,B-Class,Mountain Ape
+53,B-6,B-Class,Wild Horn 
+54,B-20,B-Class,Glasses
+55,B-25,B-Class,Pink Hornet
+56,B-29,B-Class,Double Hole
+57,B-39,B-Class,Smell Master
+58,B-43,B-Class,Gun Gun
+59,B-49,B-Class,Butcher
+60,B-50,B-Class,Jet Nice Guy
+61,B-60,B-Class,Needle Star
+62,B-65,B-Class,Piko
+63,B-69,B-Class,Crying Man
+64,B-70,B-Class,Trap Tengu
+65,B-71,B-Class,Captain Mizuki
+66,B-74,B-Class,Lily of the Three Section Staff
+67,B-77,B-Class,Bone
+68,B-81,B-Class,Tanktop Black Hole
+69,B-93,B-Class,Mushroom
+70,B-99,B-Class,Shooter
+71,???,B-Class,Darkness Blade
+72,???,B-Class,Pineapple 
+73,???,B-Class,Reclusamurai
+74,C-1,C-Class,Mumen Rider
+75,C-3,C-Class,Strange Binding Shell
+76,C-13,C-Class,Tanktop Tiger
+77,C-22,C-Class,D-Pad
+78,C-40,C-Class,Funeral Suspenders
+79,C-66,C-Class,Food Battler Futoshi
+80,C-85,C-Class,Battery Man
+81,C-89,C-Class,Red Muffler
+82,C-111,C-Class,Armored Chief Clerk
+83,C-133,C-Class,Gearspear
+84,C-141,C-Class,Skunk Boy Gasmask
+85,C-174,C-Class,Grave Eight
+86,C-179,C-Class,Ecolo G
+87,C-203,C-Class,Monocross
+88,C-221,C-Class,Dynamite Man
+89,C-255,C-Class,Angry Man
+90,C-283,C-Class,Horse-Bone
+91,C-295,C-Class,Studless
+92,C-300,C-Class,Poison
+93,C-331,C-Class,Bunbun Man
+94,C-347,C-Class,Hyottoko
+95,C-359,C-Class,Saturn Man
+96,C-385,C-Class,Red Nose
+97,???,C-Class,Ironet
+98,???,C-Class,Lecture Man
+99,???,C-Class,Meat Pounder
+100,???,C-Class,Mohican
+101,???,C-Class,Rabbit
+102,???,C-Class,Shoulderpads
+103,???,C-Class,Swim
+104,???,C-Class,Water Gun
+105,???,Unknown,Custom Hero
+106,???,Unknown,Gunma
+107,???,Unknown,Pandaman
+108,???,Unknown,Tanktop Al Dente
+109,???,Unknown,Tanktop Doctor 
+110,???,Unknown,Tanktop Girl
+111,???,Unknown,Tanktop Hatter
+112,???,Unknown,Tanktop Jungle
+113,???,Unknown,Tanktop Mask
+114,???,Unknown,Tanktop Racer
+115,???,Unknown,Tanktop Rockabilly
+116,???,Unknown,Tanktop Swimmer
+117,???,Retired,All Back-Man
+118,???,Retired,Grad School Graduate
+119,???,Staff,Agoni
+120,???,Staff,Busho
+121,???,Staff,Jinzuren
+122,???,Staff,C Branch Operator
+123,???,Staff,C Branch Worker 
+124,???,Staff,Console Operator
+125,???,Staff,Exma 
+126,???,Staff,Guiches
+127,???,Staff,Main Branch Operator
+128,???,Staff,McCoy
+129,???,Staff,Narinki
+130,???,Staff,Sekingar
+131,???,Staff,Shelter Nr.7 Girl
+132,???,Staff,Sitch
+133,???,Staff,Some Important Guy
+134,???,Staff,Special Committee Girl
+135,???,Staff,Shizuka
+136,???,Staff,Zeimeet
+137,???,Staff,Z Branch Committee Girl
+138,???,Staff,Z Branch Operator
